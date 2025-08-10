@@ -1,0 +1,6 @@
+fastmcp
+python-dotenv
+pydantic
+google-generativeai
+fastapi
+uvicorn[standard]
